@@ -1,10 +1,4 @@
-<!<p align="center">
-  <img src="assets/crecoin-banner.png" alt="CREcoin — Internet Capital Markets" width="100%" />
-</p>
--- Banner (optional): upload /assets/crecoin-banner.png in this repo, then link it -->
-<p align="center">
-  <img src="assets/crecoin-banner.png" alt="CREcoin — Internet Capital Markets" width="100%" />
-</p>
+
 
 # William Strauss — CREcoin Founder
 
