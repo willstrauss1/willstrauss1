@@ -1,3 +1,5 @@
+> 🕒 Built in May 2019 — before “dynamic NFTs” or “RWA NFTs” were industry terms.  
+> This prototype connected dispensary purchases directly to evolving NFT metadata, creating **loyalty, personalization, and marketing intelligence** years ahead of its time.
 
 
 # William Strauss — CREcoin Founder
